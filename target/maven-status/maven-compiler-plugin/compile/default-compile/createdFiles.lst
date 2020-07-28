@@ -1,0 +1,9 @@
+com\felicia\speakers\models\Speaker.class
+com\felicia\speakers\config\PersistenceConfiguration.class
+com\felicia\speakers\SpeakersApplication.class
+com\felicia\speakers\models\Session.class
+com\felicia\speakers\controllers\HomeController.class
+com\felicia\speakers\controllers\SpeakerController.class
+com\felicia\speakers\controllers\SessionController.class
+com\felicia\speakers\repositories\SpeakerRepository.class
+com\felicia\speakers\repositories\SessionRepository.class

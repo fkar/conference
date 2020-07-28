@@ -1,0 +1,9 @@
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\config\PersistenceConfiguration.java
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\repositories\SpeakerRepository.java
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\SpeakersApplication.java
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\models\Session.java
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\repositories\SessionRepository.java
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\controllers\SessionController.java
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\models\Speaker.java
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\controllers\SpeakerController.java
+C:\MyProjects\speakers\src\main\java\com\felicia\speakers\controllers\HomeController.java
